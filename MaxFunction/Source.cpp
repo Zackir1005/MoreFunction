@@ -26,7 +26,7 @@ int main() {
 	showArray(a1, 5);
 	cout << "Массив double:\n";
 	showArray(a2, 4);
-	cout << "Конец!";
+	
 
 
 	//Вызов шаблонной функции
